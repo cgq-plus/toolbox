@@ -1,4 +1,4 @@
-module github.com/cilidm/toolbox
+module github.com/cgq-plus/toolbox
 
 go 1.16
 
